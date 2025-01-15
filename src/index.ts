@@ -12,7 +12,7 @@ export { useInView } from './hooks/useInView';
 export { useSpring } from './hooks/useSpring';
 
 // Utilities
-export { easings } from './utils/easing';
+export { easings, easingToCSS } from './utils/easing';
 
 // Types
 export type {
