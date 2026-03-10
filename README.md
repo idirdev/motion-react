@@ -1,3 +1,5 @@
+> **Archived** — Kept for reference. Not part of the current portfolio.
+
 # Motion React
 
 [![npm version](https://img.shields.io/npm/v/@idirdev/motion-react.svg)](https://www.npmjs.com/package/@idirdev/motion-react)
