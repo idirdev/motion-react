@@ -172,3 +172,23 @@ const value = easings.easeOutBounce(0.5); // Returns eased value
 ## License
 
 MIT
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+**Motion React** est une bibliothèque d'animations pour React, offrant des transitions fluides, des animations d'entrée/sortie et des effets interactifs. Elle expose une API déclarative simple pour animer des composants React sans configuration complexe.
+
+### Installation
+```bash
+npm install @idirdev/motion-react
+```
+
+### Utilisation
+```tsx
+import { Motion } from "@idirdev/motion-react";
+// <Motion animate={{ opacity: 1 }} initial={{ opacity: 0 }}>
+//   <div>Contenu animé</div>
+// </Motion>
+```
